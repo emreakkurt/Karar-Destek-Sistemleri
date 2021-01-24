@@ -1,0 +1,152 @@
+.navbar-nav{
+	margin-left:75%;
+}
+#menu{
+	position:fixed;
+	top:0;
+	width: 100%;
+}
+#step1{    
+ 	background: url("dert.jpg");     
+	background-size: cover;     
+	-webkit-background-size: cover;     
+	height: 100vh; 
+}
+#sec2{
+    background-color: white;
+    background-size:cover;
+    padding-top:105px;
+}
+#sec2 .row{
+    padding-bottom: 220px;
+}
+#sec2 #sutun1 p{
+    padding-left: 45px;
+}
+#sec2 h3{
+    margin-left: 170px;
+    margin-top: 20px;
+}
+#sec2 p{
+    margin-top: 15px;
+    text-align:center;
+}
+#cir5{    
+ 	margin-top: 50px;     
+ 	margin-left:301px; 
+ } 
+#cir6{     
+	margin-top: 150px;    
+	margin-left:300px; 
+}
+#cir7{     
+	margin-top: 50px;     
+	margin-left:275px; 
+} 
+#cir8{     
+	margin-top: 100px;     
+	margin-left:275px; 
+} 
+#cir9{    
+	margin-top: 50px;    
+	margin-left:275px; 
+}
+#cir10{    
+	margin-top: 100px;    
+	margin-left:273px; 
+}
+#sec4{     
+	background-color:#fafafa;     
+	padding-bottom: 430px; 
+}
+.form-group{
+	padding-top:1%;
+	width:25%;
+	margin-left:33%;
+}
+#exampleInputEmail1{
+	border-radius:10px;
+}
+#exampleInputPassword1{
+	border-radius:10px;
+}
+#loginButton{
+	margin-left:39.5%;
+	margin-top:2%;
+	width:12%;
+	border-radius:10px;  
+}
+
+#form{
+	margin-top:15%;
+}
+#sec5 .row{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #2F4F4F;
+    opacity: 1;
+}
+#sec5 .btn{
+    border-radius: 10px;
+    color:white;
+    font-weight: 700;
+}
+#sec5 h3,label{
+    color: white;
+    border-radius:300px;
+}
+#iletisim{
+    margin-left: 20px;
+}
+#iletisimbutton{
+    margin-top: 90px;
+    margin-left:-450px;
+    width: 350px;
+}
+#iletisimform{
+    margin-left: 20px;
+}
+#area{
+    margin-left: 80px;
+    margin-top:70px; 
+    border-radius: 10px;
+}
+
+
+
+
+
+
+.nav2{
+	margin-left:82%;
+}
+.dikeyMenu{
+  list-style-type: none;
+  margin:1;
+  
+
+  
+ 
+}
+.dikeyMenu li a {
+  display: block;
+  width: 140px;
+  color: white;
+  text-decoration:none;
+  height:40px;
+  font-size:16px;
+  margin-top:2px;
+}
+#dikey{
+	background-color:black;
+	height:900px;
+	width:180px;
+	margin-top:-2px;
+}
+.dikeyMenu li  {
+  padding-top:15px;
+}
+.dikeyMenu li a:hover{
+	color:purple;
+
+}
