@@ -1,1 +1,2 @@
-Ramazan Emre Akkurt Karar Destek Sistemleri Dersine Ait Ödev Alanıdır.
+Ramazan Emre Akkurt 2016469003
+Karar Destek Sistemleri Dersine Ait Ödev Alanıdır.
